@@ -1,0 +1,317 @@
+Signature-Version: 1.0
+SHA1-Digest-Manifest-Main-Attributes: EUPcDEe4Zpel0tvCnqPEYvG4MTQ=
+SHA1-Digest-Manifest: Z4fWHEEpRLQLUciHhajCrgFqce0=
+Created-By: 1.8.0_144 (Oracle Corporation)
+
+Name: res/layout/notification_action.xml
+SHA1-Digest: 793BrOWYJlKzNn/Kh3VRH8EQLZE=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: 1oBoWs0yZNbihGDTuZoT5LjrBEA=
+
+Name: res/layout/notification_template_icon_group.xml
+SHA1-Digest: PcKc+R291k8prDY6AMtMq9TsHkM=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_background.png
+SHA1-Digest: eiJFG8+mN5VUnnrVLmrZDIbkL7I=
+
+Name: META-INF/androidx.localbroadcastmanager_localbroadcastmanager.ve
+ rsion
+SHA1-Digest: SzB8yvROSPFYg6e27pVrAARBspc=
+
+Name: META-INF/androidx.swiperefreshlayout_swiperefreshlayout.version
+SHA1-Digest: vISue0XyGeEFMixEq2S9gO/P19s=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: pRTJj3ABo0APshLOTbTJe7NrLfk=
+
+Name: res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: V9+xpnkc/sivE9XidYUNvH+TuOk=
+
+Name: assets/flutter_assets/fonts/MaterialIcons-Regular.ttf
+SHA1-Digest: e4OAojwGTcP6GiY5ToRX7RyOlNI=
+
+Name: res/layout-v17/notification_action.xml
+SHA1-Digest: xHPBy0/SC7fS/cq7GUr68MCtcgI=
+
+Name: lib/x86_64/libflutter.so
+SHA1-Digest: lnM9ScJHq2hL6weFYEo8UHZgx7M=
+
+Name: assets/flutter_assets/fonts/NotoSansArmenian-Regular.ttf
+SHA1-Digest: FxTMeTH26UaFyv49eJuW6nYaNs8=
+
+Name: META-INF/androidx.print_print.version
+SHA1-Digest: U1duTbm/CadP1xfBHfRRB+Eul/Y=
+
+Name: res/drawable-anydpi-v21/ic_launcher_foreground.xml
+SHA1-Digest: c1vX7G6XimXfMllR2Zb4qCKD0Ts=
+
+Name: res/drawable/notification_bg_low.xml
+SHA1-Digest: wUkfOjSsI/0IbnkBR1DD865orco=
+
+Name: res/drawable-xxxhdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: 84cwGDtiacgFwidTPIlaarDVmas=
+
+Name: res/layout-v16/notification_template_custom_big.xml
+SHA1-Digest: gh+LVtfLd/SHxiloVou+Qbb7Qdc=
+
+Name: res/mipmap-hdpi-v4/ic_launcher.png
+SHA1-Digest: YGYghCiWv9lfRLp4jTcyGTAWBfc=
+
+Name: res/layout/notification_template_part_chronometer.xml
+SHA1-Digest: 0pr+KA+EULYfzQ9ovpz8sPoJv5w=
+
+Name: META-INF/androidx.customview_customview.version
+SHA1-Digest: t8mdcbiD7qQRZMP1YzJ04kSRnf4=
+
+Name: META-INF/androidx.documentfile_documentfile.version
+SHA1-Digest: fg9F24pvtMEcEkkm7xqpxkHESyw=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: TkDnXBnJiHvtOl2hvJqCKqcy9u8=
+
+Name: resources.arsc
+SHA1-Digest: Rf8xneMG/t2jEgA5s/m4gi2DxKY=
+
+Name: res/drawable-mdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: 0g6LMPGPPh9+2//Sfq/z2ZSYUYk=
+
+Name: lib/armeabi-v7a/libflutter.so
+SHA1-Digest: 7lF1b4MFbm/CHgbDFa5YtP6eTbY=
+
+Name: AndroidManifest.xml
+SHA1-Digest: q3YDc+FA9BUmtjKWfoQ94xk26O8=
+
+Name: META-INF/androidx.loader_loader.version
+SHA1-Digest: TbDlvpg++ycbvKZlifqI5Y5JpVQ=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_background.png
+SHA1-Digest: DmCviuh6YfxxdJEk5hgmuiTLzq8=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_round.png
+SHA1-Digest: 1qVI1JrpbGrZWfVrFEKZfmZJbAY=
+
+Name: META-INF/android.arch.lifecycle_runtime.version
+SHA1-Digest: mgd0ibqCDE7dziahk3gQRzTxqfA=
+
+Name: META-INF/androidx.viewpager_viewpager.version
+SHA1-Digest: Z6PEVwMu6dlOivFDm82mN1PA+/g=
+
+Name: res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: 77ux/w2LETcNr1AjCg0cyDVeCWs=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: EpMdNwR3bTJ3kdxIJ0n2vXx6lRs=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_background.png
+SHA1-Digest: d9j+gNRP4Hvk23lZ5KmlJjNgDEs=
+
+Name: res/mipmap-mdpi-v4/ic_launcher.png
+SHA1-Digest: KqGYYz7N/3CqoFieBCKa3pqU3e0=
+
+Name: res/drawable-xhdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: Fo7kk52UnPmNixvbYdYS9DaQOLo=
+
+Name: res/drawable-hdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: kEOyZbEcf6IPqrtnVHcm8r+6rGo=
+
+Name: res/layout-v21/notification_template_icon_group.xml
+SHA1-Digest: D6158+KPsJO1sHk2S79GeH7mZ2I=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: iM3kYe4mDNZCKaM4IP/L1+DxFME=
+
+Name: META-INF/androidx.coordinatorlayout_coordinatorlayout.version
+SHA1-Digest: ERHZEzpSAkP4u0Q4r4kuzOm6fRQ=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: qN2wihpcteNw2VmxRiSSWBlhIx0=
+
+Name: META-INF/androidx.legacy_legacy-support-core-ui.version
+SHA1-Digest: BrovuIvOpCRJZm5b7BNdTwe8ekM=
+
+Name: lib/armeabi-v7a/libapp.so
+SHA1-Digest: 9NTqhR9StiiHliiHMhVlostma80=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_background.png
+SHA1-Digest: ZGiTy54/cs4cQCC6765q1uQ8mTc=
+
+Name: res/drawable-ldpi-v4/ic_launcher_foreground.png
+SHA1-Digest: E8BnhDgbKdYYJ79EYbnah8PvJh8=
+
+Name: res/drawable/notification_icon_background.xml
+SHA1-Digest: rrwGOizUdPCVlri+v1Rj/3WyKBA=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher_round.png
+SHA1-Digest: GdbrEQbcF+ObemUjUNAdfM3s1YA=
+
+Name: res/mipmap-anydpi-v26/ic_launcher.xml
+SHA1-Digest: Uu+06q4M5b4dtUshDjVy0vUCka8=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher.png
+SHA1-Digest: pUOb//2qKyNV/FkaSVwZQfkdpWc=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_round.png
+SHA1-Digest: BcQKQIOcFSyggEhoHzBsocw0THQ=
+
+Name: res/drawable-v21/notification_action_background.xml
+SHA1-Digest: r3rnzp/4RGDq97AOcs8hI2fHCVo=
+
+Name: res/drawable/notification_bg.xml
+SHA1-Digest: BZcYRT8ETLIXwujgjfa1Ue5ImnU=
+
+Name: lib/arm64-v8a/libflutter.so
+SHA1-Digest: 1GqtNxzu5NiHkaX94z87NCpkS7U=
+
+Name: assets/flutter_assets/fonts/NotoSansKhmer-Regular.ttf
+SHA1-Digest: BEAk+br6EEf9KZLqneFvwrSIIMk=
+
+Name: res/mipmap-anydpi-v26/ic_launcher_round.xml
+SHA1-Digest: vLnJJzqvAhq7o/ejqXxiApn0P1M=
+
+Name: assets/flutter_assets/AssetManifest.json
+SHA1-Digest: ZzVBaum7UQMvXNh0uvIVBWmGTYM=
+
+Name: META-INF/androidx.cursoradapter_cursoradapter.version
+SHA1-Digest: 52+fw7GKKOOmtXCrnrPrtGPTVjM=
+
+Name: META-INF/androidx.drawerlayout_drawerlayout.version
+SHA1-Digest: bWeoZCU9ATEAfis5P+TKeyLQFwM=
+
+Name: META-INF/android.arch.lifecycle_livedata.version
+SHA1-Digest: MlMwWIwNpuS2rz/AzXm5Hqaliu4=
+
+Name: res/drawable-xxhdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: mLsFxzRog7FCM0W2qP+H4equpuc=
+
+Name: res/layout-v17/notification_template_custom_big.xml
+SHA1-Digest: bEXyr/nj80dvJcz3Kse6ttzd5gs=
+
+Name: assets/flutter_assets/LICENSE
+SHA1-Digest: ARyxB3z3p/4ONrfYBgCEj9VF+DE=
+
+Name: res/layout-v21/notification_action_tombstone.xml
+SHA1-Digest: gqNyiu0ko2fh+mkQ1w6uAIPWIAY=
+
+Name: META-INF/androidx.versionedparcelable_versionedparcelable.versio
+ n
+SHA1-Digest: /M5ZcCUkGpD9LMU3LB/ji4SqKws=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: A+tSntZw7XencpPmAfRMN5LR8Js=
+
+Name: res/drawable-mdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: IoqG6BW0skm5v0quZ4dEPJ0CE+A=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: 9Sdqwvl69+Mn3DT7qniommkhaxU=
+
+Name: META-INF/androidx.interpolator_interpolator.version
+SHA1-Digest: N1oXzTddmYqikyO12TzdUpHmrRc=
+
+Name: assets/flutter_assets/fonts/NotoSansLinearB-Regular.ttf
+SHA1-Digest: iti3aYkY0/w/HMKuDTwvmNGYGGo=
+
+Name: META-INF/androidx.fragment_fragment.version
+SHA1-Digest: TynU751qzkFFJ2FKDYU/ETmEnUk=
+
+Name: res/layout-v21/notification_action.xml
+SHA1-Digest: dFzqS09soq3gA4LX5vIHtcxx8k8=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: 82b2/2NBzkMjkadsIoXoCbkaLc8=
+
+Name: META-INF/android.arch.lifecycle_livedata-core.version
+SHA1-Digest: 2tJShv1/Mq1faqJZT3FQzC7hxOU=
+
+Name: res/layout/notification_template_part_time.xml
+SHA1-Digest: BPYpjfQiOa010q9Tu3flv0vfVTc=
+
+Name: res/mipmap-hdpi-v4/ic_launcher_round.png
+SHA1-Digest: uQbpJIEt2uS2LSESc7XgP9TkPUQ=
+
+Name: res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png
+SHA1-Digest: XEUHYWP3c7bPpsCK+zkCVmpkhvo=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_background.png
+SHA1-Digest: uer7JjXTy+pThbHM8/psMMB/opM=
+
+Name: META-INF/androidx.legacy_legacy-support-core-utils.version
+SHA1-Digest: 4ZsGLz3iepmiYLfcQVIkoR0gpQU=
+
+Name: res/drawable-mdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: CmLK5Jmyi5LSgWNd5V0sx2MgN50=
+
+Name: res/mipmap-xhdpi-v4/ic_launcher.png
+SHA1-Digest: 3NGhaIBvyfSNspdjXmptwo5oUgE=
+
+Name: res/layout-v17/notification_action_tombstone.xml
+SHA1-Digest: BoUncU2P5adW4rWzmnCcIDFMuPg=
+
+Name: assets/flutter_assets/FontManifest.json
+SHA1-Digest: 61GX+6S7xuTzBEpvdiM5y5mBv8c=
+
+Name: res/mipmap-xxhdpi-v4/ic_launcher_round.png
+SHA1-Digest: Fv+aDVnc9PXtDw0bKrzLLz1WJsQ=
+
+Name: lib/x86_64/libapp.so
+SHA1-Digest: N1qCthge81Z8jvDTecBwhJRA2+0=
+
+Name: META-INF/androidx.asynclayoutinflater_asynclayoutinflater.versio
+ n
+SHA1-Digest: WqoBXdmwOawnG6g3OVRUCF+8KCo=
+
+Name: res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png
+SHA1-Digest: 4MG7VM6Z34XM9BaRIqshFo+MAYg=
+
+Name: res/drawable/notification_tile_bg.xml
+SHA1-Digest: wZK9hCLvtH+CBL3nj7DV6GW28zs=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_normal.9.png
+SHA1-Digest: lqOLuuFWjCF1dyAm4OPWPBASa0Y=
+
+Name: res/layout-v21/notification_template_custom_big.xml
+SHA1-Digest: YJ3EAwpERIWEwN7z7D5XuruzhvE=
+
+Name: res/mipmap-mdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: BJEdo2YduG670TBOfPLYEwbqTow=
+
+Name: META-INF/androidx.core_core.version
+SHA1-Digest: qzW7rmoru5/gCL3Q64uxwsvKy40=
+
+Name: META-INF/android.arch.core_runtime.version
+SHA1-Digest: gfKdTxzy15iV0z7ZogHp7+qdek8=
+
+Name: META-INF/proguard/androidx-annotations.pro
+SHA1-Digest: TuSmZQ+DB90ljNEzN7Fh1jXQ7qo=
+
+Name: res/layout/notification_action_tombstone.xml
+SHA1-Digest: lEc4dPKI/wFn5amrCmS0c2X1wro=
+
+Name: META-INF/androidx.slidingpanelayout_slidingpanelayout.version
+SHA1-Digest: 8XqSeewL8jyWeo+bFTBl26J7vD0=
+
+Name: res/drawable-xhdpi-v4/ic_launcher_foreground.png
+SHA1-Digest: dzK8Xle5xtufU5HESYZwMcoiOcY=
+
+Name: res/mipmap-xxxhdpi-v4/ic_launcher.png
+SHA1-Digest: PkGBInKsJySWHpQ2eKiNcU84R8U=
+
+Name: res/drawable-hdpi-v4/notification_bg_low_pressed.9.png
+SHA1-Digest: jos7xGEL8xzNpAjGXxpaU/uwJvg=
+
+Name: META-INF/android.arch.lifecycle_viewmodel.version
+SHA1-Digest: 7xMhMMU/M0PSQS/tRJ6ZT2vQhCU=
+
+Name: classes.dex
+SHA1-Digest: N/4EEMVrANn5de3GHgpjrL5ZBTs=
+
+Name: lib/arm64-v8a/libapp.so
+SHA1-Digest: F6mVGFQIyTQqodXndvXnLhvXl0U=
+
+Name: res/drawable-hdpi-v4/notification_bg_normal.9.png
+SHA1-Digest: S8Su+f9qpYTc3RhsUgFjR5sP2P4=
+
+Name: res/drawable/launch_background.xml
+SHA1-Digest: RUngiHKGjefUwrwFGtPi9/9p5So=
+
