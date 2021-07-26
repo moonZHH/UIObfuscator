@@ -1,7 +1,7 @@
 # UIObfuscator: Impeding UI Analysis on Android Apps
 
 ## Abstract
-
+UIObfuscator provides 9 UI obfuscation approaches, which can negatively impact UI centric app analysis, UI based repackaged app detection, and UI driven app testing.
 
 ## Publication
 If you are interested about the details of UIObfuscator, please refer to our research paper:  
@@ -17,6 +17,6 @@ organization = {IEEE}
 
 ## Use
 To use UIObfuscator, please follow the steps:  
-　Step-1: Import each folder to Eclipse.  
-　Step-2: Adjust the configurations in src/hk/polyu/Configuration.java.  
-　Step-3: Run MainImpl.java to perform obfuscation.  
+-> Step-1: Import each folder to Eclipse.  
+-> Step-2: Adjust the configurations in src/hk/polyu/Configuration.java.  
+-> Step-3: Run src/hk/polyu/MainImpl.java to perform obfuscation.  
