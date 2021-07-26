@@ -1,5 +1,9 @@
-# UIObfuscator: Impeding Automated UI Analysis on Android 
+# UIObfuscator: Impeding Automated UI Analysis on Android Apps
 
+## Abstract
+
+
+## Publication
 If you are interested about the details of UIObfuscator, please refer to our research paper:  
 
 @inproceedings {uiobfuscator20,  
@@ -11,6 +15,7 @@ year = {2020},
 organization = {IEEE}  
 }  
 
+## Use
 To use UIObfuscator, please follow the steps:  
 　Step-1: Import each folder to Eclipse.  
 　Step-2: Adjust the configurations in src/hk/polyu/Configuration.java.  
