@@ -1,4 +1,4 @@
-# UIObfuscator: Impeding Automated UI Analysis on Android Apps
+# UIObfuscator: Impeding UI Analysis on Android Apps
 
 ## Abstract
 
